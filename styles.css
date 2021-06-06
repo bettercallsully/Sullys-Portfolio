@@ -1,0 +1,101 @@
+
+/* CSS stylesheet */
+.mainheader {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 20px;
+  color: #6070ff;
+}
+
+.toolbar {
+  position: absolute;
+  width: 1440px;
+  height: 72px;
+  left: 0;
+  top: 0;
+}
+
+.hamburger {
+  position: relative;
+  top: -114px;
+  right: -305px;
+  align-items: baseline;
+}
+
+.contactme {
+  position: relative;
+  width: 117px;
+  height: 14px;
+  margin-left: -13px;
+  color: #7f8cff;
+}
+
+.socialmedia {
+  margin-left: -13px;
+}
+
+.main-content {
+  background-repeat: no-repeat;
+  background-image: url(myassets/headershapesmobile.png);
+  position: relative;
+  height: 150px;
+  width: 327px;
+  left: 24px;
+  top: 114px;
+}
+
+.articletext {
+  width: 327px;
+  align-self: center;
+  height: 146px;
+  left: 24px;
+  top: 276px;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.introduction {
+  align-items: baseline;
+  width: 327px;
+  margin-left: -13px;
+  top: 114px;
+  font-weight: bold;
+  color: #172b4d;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.usernamehandle {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 20px;
+  color: #6070ff;
+  position: relative;
+  margin-left: -14px;
+  top: -114px;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.selfdescription {
+  position: relative;
+  top: -20%;
+  display: inline-block;
+  align-content: center;
+  margin-left: -13px;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+}
