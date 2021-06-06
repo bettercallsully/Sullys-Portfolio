@@ -4,7 +4,7 @@
 
 > This is a "skeleton" version of the Portfolio project we're working on for the HTML & CSS module for the Microverse Curriculum.
 
-[![portfolioskeleton.png](https://i.postimg.cc/3JZ8V230/portfolioskeleton.png)](https://postimg.cc/7ffrTGGq)
+[![portfolio.png](https://i.postimg.cc/bwyVMvnY/portfolio.png)](https://postimg.cc/7fRNJwXj)
 # Sully's Portfolio
 
 ## Built With
@@ -44,7 +44,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@bettercallsully](https://github.com/bettercallsully)
 - Twitter: [@bettrcallsully](https://twitter.com/bettrcallsully)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/solomonelkelani)
-=======
 
 ## 🤝 Contributing
 
